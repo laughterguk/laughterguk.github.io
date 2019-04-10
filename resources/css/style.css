@@ -86,7 +86,15 @@ body {
 }
 
 .sidebar .title {
-
+  position:relative;
+  top:40px;
+  margin:0 auto;
+  text-align:center;
+  font-family:sans-serif, Helvetica;
+  font-weight:bold;
+  font-size:22px;
+  color:#444;
+  width:100%;
 }
 
 .sidebar .info {
